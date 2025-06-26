@@ -1,0 +1,39 @@
+#ifndef FUNLIST_
+#define FUNLIST_
+
+
+public static final class funlist
+{
+    vector<string> xlist={
+        "set reg val",
+        "add reg val val",
+        "sub reg val val",
+        "mul reg val val",
+        "div reg val val",
+        "pow reg val val",
+        "mod reg val val",
+        "log reg val",
+        "logn reg val val",
+        "abs reg val",
+        "flr reg val",
+        "ceil reg val",
+        "rnd reg val",
+        "max reg val val",
+        "min reg val val",
+        "sin reg val",
+        "cos reg val",
+        "tan reg val",
+        "asin reg val",
+        "acos reg val",
+        "atan reg val",
+        "fib reg val",
+        "prime reg val",
+        "ifoe reg reg val val",
+        "issm reg val val",
+        "iseq reg val val",
+        "not reg reg"
+
+    }
+};
+
+#endif // FUNLIST_

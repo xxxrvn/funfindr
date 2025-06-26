@@ -1,0 +1,15 @@
+#ifndef FUNLIST_
+#define FUNLIST_
+
+
+class funlist
+{
+    public:
+        funlist();
+
+    protected:
+
+    private:
+};
+
+#endif // FUNLIST_

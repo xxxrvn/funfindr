@@ -1,0 +1,6 @@
+#include "funlist."
+
+funlist::funlist()
+{
+    //ctor
+}
